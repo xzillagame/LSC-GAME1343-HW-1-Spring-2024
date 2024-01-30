@@ -322,11 +322,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51c07f4002c421e41b0da4938eec009c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CharacterName: 
-  ProficiencyBonus: 0
-  UsingFinesseWeapon: 0
+  CharacterName: Nikolai
+  ProficiencyBonus: 1
+  UsingFinesseWeapon: 1
   StrengthModifier: 0
-  DexterityModifier: 0
+  DexterityModifier: 3
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
